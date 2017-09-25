@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Password">Password</string>
+    <string name="PassEnt">Password Enter</string>
+    <string name="UserEnt">Enter Username</string>
+    <string name="UserName">User Name</string>
+    <string name="Verify">Verified</string>
+</resources>
